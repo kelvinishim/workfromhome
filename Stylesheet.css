@@ -1,0 +1,121 @@
+Body {
+    margin:0;
+     background-color: coral;
+
+
+    }
+
+h1{
+  color: rgb(249, 251, 255);
+    text-decoration: underline overline wavy rgb(211, 23, 102);
+    font-weight: bold;    
+    width: 775px;
+    padding: 60px;
+    padding-left: 30px;
+    text-align: left;
+    margin-top: 0px;
+    position: relative;
+}
+
+h2{
+  color: goldenrod ;
+  background-color: indigo;
+  font-size: 35px;
+  margin-bottom: 0px;
+  margin-top:  20px;
+  text-indent: 15%;
+}
+
+h3{
+  color: goldenrod ;
+  background-color: indigo;
+  font-size: 27px;
+  text-align: center;
+  margin-left:20px;
+  margin-top: -55px;
+  max-width:500px;
+
+}
+
+h4 {
+  color: white;
+  text-decoration: underline overline wavy rgb(211, 23, 102);
+  font-weight: bold;
+  font-size: 26px;
+}
+
+
+p {
+   font-size: 20px;
+  max-width:550px;
+  margin-top:-20px;
+  margin-left:20px;
+  word-spacing: 2px;
+  background-color: greenyellow;
+}
+
+.TextWrap{
+  padding-top: 65px;
+  padding-left: -90px;
+  float: right;
+  margin-right:40%;
+  max-width: 15%;
+  max-height: 15%;
+  
+  
+}
+
+
+.outcomes {
+  margin-top:-10px;
+  max-width: 830px;
+
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  #logo {
+    position:absolute;
+    right:2%;
+    top: 0px;
+    
+  }
+
+ 
+
+/* Position the navbar container inside the image */
+.container {
+  padding: 0;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+overflow: hidden;
+background-color: rgb(23, 231, 186);
+}
+
+/* Navbar links */
+.topnav a {
+float: left;
+color: #000000;
+text-align: center;
+padding: 14px 16px;
+text-decoration:none;
+font-size: 20px;
+font-weight:bold;
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+
+  
